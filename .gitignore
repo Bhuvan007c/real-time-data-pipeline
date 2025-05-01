@@ -1,1 +1,3 @@
 echo "__pycache__/\n.env\n*.log\n*.pyc\nvenv/" > .gitignore
+git add .
+git commit -m "Initial commit: Real-time data pipeline with Kafka, Spark, and PostgreSQL"
