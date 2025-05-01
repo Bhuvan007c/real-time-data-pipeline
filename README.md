@@ -136,8 +136,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to fork, open issues, or submit pull requests!
 
-```
-
----
-
-Would you like me to push this README directly into your GitHub repo via a PR or generate it as a downloadable `.md` file?
