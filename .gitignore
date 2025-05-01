@@ -1,6 +1,1 @@
-echo "__pycache__/\n.env\n*.log\n*.pyc\nvenv/" > .gitignore
-git add .
-git commit -m "Initial commit: Real-time data pipeline with Kafka, Spark, and PostgreSQL"
-git remote add origin https://github.com/YOUR_USERNAME/real-time-data-pipeline.git
-git branch -M main
-git push -u origin main
+
